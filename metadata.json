@@ -1,0 +1,6 @@
+{
+  "name": "IMVOR — Premium Tactical & Outdoor Safety Store",
+  "description": "High-end tactical, personal defense, and outdoor equipment platform designed for Pakistan. Denominated in PKR with lawful compliance standards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
